@@ -1,0 +1,54 @@
+Cord Clamp:
+- Flat
+- No supports
+- Brim (depends on stickiness bed)
+
+Curved Hemostat Lock:
+- Flat parts down
+- Supports (everywhere)
+- Brim (depends on stickiness bed)
+
+Needle Driver Lock:
+- Flat parts down
+- No supports
+- Brim (depends on stickiness bed)
+
+Neonatal Aspirator:
+- Upright
+- No supports
+- No brim
+
+Pinard Horn Foetoscope:
+- Upright
+- No supports
+- No brim
+
+Pliers Simple:
+- Flat
+- No supports
+- Brim (depends on stickiness bed)
+
+Pliers Small:
+- Flat
+- No supports
+- Brim (depends on stickiness bed)
+
+Spongestick Lock:
+- Flat parts down
+- Supports (everywhere)
+- Brim (depends on stickiness bed)
+
+Spongestick Lock Less Support:
+- Flat parts down
+- Supports (everywhere)
+- Brim (depends on stickiness bed)
+
+Straight Hemostat Lock:
+- Flat parts down
+- No supports
+- Brim (depends on stickiness bed)
+
+Towel Clamp Hemostat Lock:
+- Flat parts down
+- No supports
+- Brim (depends on stickiness bed)
